@@ -10,11 +10,11 @@ Master of stall is a tycoon game using Cocos2d-x.
 Project finished.
 ### [Unreleased] - 2021-08-13
 Upload full project to github.
-### [Unreleased] - 2021-08-16
+### [Unreleased] - 2021-08-17
 Added
 - readme.md
 
 ## Contributing
-cokwa
-Hyunkang Na 
-Gunhee Kim
+- cokwa
+- Hyunkang Na 
+- Gunhee Kim
